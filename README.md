@@ -48,4 +48,4 @@ users.txt: User data
 
 staff.txt: Staff data
 
-sales_history.txt: Sales records
+history.txt: Sales records
