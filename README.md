@@ -19,4 +19,4 @@ achieves direct access to data through mathematical mapping. Hash search is sele
 Best/Average Case: Hash search has O(1)time complexity (the core advantage of hash tables), which is why it is widely used in high-performance lookup scenarios (e.g., caches, databases).<br>
 Worst Case: Degenerates to O(n)due to severe collisions (avoidable with good hash function design and load factor control).<br>
 Key to Optimization: Maintain a reasonable load factor (α≈0.7), use a uniformly distributed hash function, and choose efficient collision resolution strategies (e.g., red-black tree for separate chaining).<br>
-【Desktop 2026.04.16 - 21.24.18.06】 https://www.bilibili.com/video/BV13tdaBSEyP/?share_source=copy_web&vd_source=8f3b64e3a6d9194d4e8ddce60e4e1a86
+The link of introduction video for this task:【Desktop 2026.04.16 - 21.24.18.06】 https://www.bilibili.com/video/BV13tdaBSEyP/?share_source=copy_web&vd_source=8f3b64e3a6d9194d4e8ddce60e4e1a86
