@@ -12,7 +12,7 @@ Although the method name is the same, each class implements it in its own way.
 5. Class Method: marked with @classmethod. For example, Product.get_total() can be called directly through the class name without creating an object, to get the total number of product types
 6. Static Method: marked with @staticmethod. For example, Product.to_money() is a utility function that converts numbers to currency format.
 7. Composition: the User class has a self.cart list that stores tuples of Product objects and their quantities.<br>
-`The language of the program output is only CHINESE`
+`The language of the program output is English, but the comments are Chinese`
 ## `User Guide`
 ### Staff Functions
 Staff can log in to manage products and view sales data.
@@ -49,3 +49,6 @@ users.txt: User data
 staff.txt: Staff data
 
 history.txt: Sales records
+
+Introduction video:
+https://youtu.be/stsT9_9EVHY
